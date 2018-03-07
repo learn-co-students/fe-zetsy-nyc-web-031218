@@ -7,7 +7,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -18,3 +18,62 @@ body {
 }
 
 /* Write all remaining styles here */
+
+body {
+	font-family: 'Times New Roman', serif;
+}
+
+section {
+	width: 100%;
+}
+
+h1 {
+	font-family: 'Baskerville', serif;
+	font-size: 5em;
+	padding: 0 0 10px 0;
+	margin: 0 0 5px;
+	border-bottom: 1px solid #ccc;
+}
+
+h2 {
+	color: rgba(114, 126, 122, 1);
+	font-size: 2em;
+}
+
+p {
+	color: rgba(85, 85, 85, 1);
+	padding-bottom: 5px;
+}
+
+footer {
+	font-size: .8em;
+	text-align: right;
+	color: rgba(114, 126, 122, 1);
+	padding: 10px 0;
+}
+
+#featured a {
+	color: rgba(156, 172, 166, 1);
+	text-decoration: none;
+}
+
+#featured a:hover {
+	color: rgba(114, 126, 122, 1);
+}
+
+#featured img {
+	border: 5px rgba(156, 172, 166, 1) solid;
+}
+
+#about a {
+	text-decoration: none;
+	color: rgba(59, 130, 182, 1);
+}
+
+#press img {
+	border: 5px rgba(204, 204, 204, 1) solid;
+}
+
+#press img:hover {
+	border: 5px rgba(156, 172, 166, 1) solid;
+}
