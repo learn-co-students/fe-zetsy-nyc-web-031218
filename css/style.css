@@ -43,6 +43,10 @@ h2 {
     font-size: 0.8em;
 }
 
+#featured a {
+    color: #1783bb;
+    text-decoration: none;
+}
 footer {
     text-align: right;
     background: #fff;
